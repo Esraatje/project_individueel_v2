@@ -1,0 +1,110 @@
+nav {
+    background-color: deeppink;
+    height: 5em;
+}
+
+section img {
+    width: 100%;
+}
+
+nav img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+section {
+    background-color: #E50F9C;
+    color: white;
+    margin-bottom: 2em;
+}
+article {
+    background-color: #1B4DB9;
+    color: white;
+    margin-bottom: 2em;
+}
+div {
+    background-color: #292929;
+    color: white;
+}
+
+section a {
+    background-color: white;
+    color: #E50F9C;
+    font-family: Filson Pro;
+    text-decoration: none;
+    padding: 1em;
+    border-radius: 1.5em;
+}
+
+article a {
+    background-color: white;
+    color: #1B4DB9;
+    font-family: Filson Pro;
+    text-decoration: none;
+    padding: 1em;
+    border-radius: 1.5em;
+}
+
+div a {
+    background-color: white;
+    color: #292929;
+    font-family: Filson Pro;
+    text-decoration: none;
+    padding: 1em;
+    border-radius: 1.5em;
+}
+
+a {
+    font-family: Acumin Pro;
+    color: #E50F9C;
+}
+
+a:hover {
+    color: #1B4DB9;
+}
+
+h2 {
+    font-family: Filson Pro;
+    margin-left: 1em;
+}
+
+h1 {
+    font-family: Filson Pro;
+    background-color: #292929;
+    color: white;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+p {
+    font-family: Acumin Pro;
+}
+
+img {
+    width: 100%;
+}
+
+footer h2 {
+    font-family: Filson Pro;
+    background-color: #292929;
+    color: white;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.images {
+    background-color: white;
+    color: black;
+}
+
+.images h2 {
+    color: black;
+}
+
+.images h2:hover {
+    color: #E50F9C;
+}
